@@ -1,12 +1,10 @@
 .cabecalho-titulo{
-    background-size: 150px 150px;
-    background-color: blue;
     color: cyan;
     text-align: center;
     font-family: sans-serif;
 }
 
 header{
-    height: 200px;
-    background-size: 200%;
+    background-color: blue;
+    background-size: cover;
 }
