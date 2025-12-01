@@ -1,7 +1,7 @@
 .cabecalho-titulo{
     background-color: blue;
-    size: 150px;
     color: cyan;
     text-align: center;
+    text-shadow: white 10px;
 
 }
